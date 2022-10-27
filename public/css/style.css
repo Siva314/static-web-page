@@ -1,1 +1,21 @@
 @charset "UTF-8";
+
+body{
+    background-color: magenta;
+}
+
+label{
+    color: rgb(210, 224, 6);
+    font-size: 15px;
+}
+
+.login{
+    width: 250px;
+    overflow: hidden;
+    height: 100px;
+    padding: 10px;
+    border: 5px solid rgb(155, 65, 132);
+    background-color: rgb(7, 33, 177);
+    margin: 250px 500px 100px;
+    text-align: center;
+}
